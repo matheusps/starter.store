@@ -3,6 +3,7 @@
 	"version": "0.0.0",
 	"description": "FastStore Base Starter",
 	"private": true,
+	"packageManager": "pnpm@9.15.5",
 	"scripts": {
 		"dev": "faststore dev",
 		"build": "faststore build",
